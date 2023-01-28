@@ -1,7 +1,7 @@
 
 // TODO: Übersetzte hier das Programm aus der Aufgabenstellung nach den Regeln aus der Vorlesung.
 
-/// int a, b, r;
+// int a, b, r;
  ALLOC 3
  // a = read();
  READ
