@@ -63,7 +63,8 @@
         LOAD 0
         SUB
         STORE 1
-        JUMP while_cond
+        cond_end:
+     JUMP while_cond
  while_end:
 
  // r = r / a;
